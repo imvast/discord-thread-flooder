@@ -10,7 +10,7 @@ prefix = input("? Prefix -> ")
 questioning=True
 while questioning==True:
     threadnames = input("? Thread Names -> ")
-    if int(threadnames) >= 20: print("! Thread names should be under 20 characters.")
+    if len(threadnames) >= 20: print("! Thread names should be under 20 characters.")
     else: questioning=False
 
       
