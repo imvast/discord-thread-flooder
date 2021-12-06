@@ -37,7 +37,6 @@
 ---------------------------------------
 
 ### Features
-* Autojoin discord servers
 * User friendly interface
 * Proxy support (http/socks4/socks5)
 
