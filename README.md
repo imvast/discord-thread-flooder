@@ -23,9 +23,9 @@
     <br />
     <a href="https://discord.gg">🌌 Discord</a>
     ·
-    <a href="https://github.com/imvast/Discord-Token-Creator#changelog">📜 ChangeLog</a>
+    <a href="https://github.com/imvast/discord-thread-flooder#changelog">📜 ChangeLog</a>
     ·
-    <a href="https://github.com/imvast/Discord-Token-Creator/issues">⚠️ Report Bug</a>
+    <a href="https://github.com/imvast/discord-thread-flooder/issues">⚠️ Report Bug</a>
     ·
     <a href="https://github.com/imvast/discord-thread-flooder/issues">💡 Request Feature</a>
   </p>
